@@ -3,7 +3,7 @@ import {  withRouter } from 'react-router-dom';
 import studioBag from '../../assets/studio-bag.png';
 import './main-section.styles.css';
 
-const MainSection ({ history }) => {
+const MainSection = ({ history }) => {
     return (
         <div className = "main-section-container">
             <div className='main-section-middle'>
