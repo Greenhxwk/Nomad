@@ -1,7 +1,7 @@
 import React from 'react';
 import {  withRouter } from 'react-router-dom';
 import studioBag from '../../assets/studio-bag.png';
-import './main-section.styles.css';
+import './main-section.styles.scss';
 
 const MainSection = ({ history }) => {
     return (
